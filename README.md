@@ -1,6 +1,6 @@
 # Data-Science-Advanced-Analytics-Virtual-Experience-Program
-___________________________________________________________________
 <p> this is my code in a virtual experience program offered by BCG company on the Forage website </p>
+_______________________________
  # Summary
  <p>In this project i build a model to prodict whether the client would churn or not.</p>
  <p>At the first stage i did some EDA to get insights for the data, then i visulized the data using Plotly libary to understant the distrbution of the data, Next i Created a dashboard using dash library to summerize what i gained</p>
